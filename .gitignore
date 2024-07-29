@@ -1,0 +1,8 @@
+secrets.txt
+
+
+#This us a comment
+
+
+# *.txt  
+#all the files with .txt extension ignored.
